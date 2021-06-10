@@ -1,5 +1,5 @@
 /* Student Name: Zirong Liu
- * Student Number: 300048614
+ * Student Number: 
  */
 
 package KnapsackProblem;
